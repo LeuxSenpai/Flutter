@@ -1,16 +1,23 @@
-# my_project
+Random Word Generator Flutter App
+This is a simple Flutter app that generates random word pairs and allows users to save their favorite ones.
 
-A new Flutter project.
+Features
+Random Word Generation: Generates random word pairs using the english_words package.
+Favorites System: Users can save their favorite word pairs and view them on a separate screen.
+Interactive UI: Displays word pairs in a list with an option to favorite or unfavorite them.
+Screenshots
 
-## Getting Started
+Code Walkthrough
+RandomWords Widget: The main widget that generates random word pairs using the english_words package.
+Saved Word Pairs: Users can save and view their favorite word pairs in a separate list screen.
+User Interaction: The app allows users to toggle favorite status for each word pair.
+Dependencies
+Flutter: SDK for building the app.
+english_words: A package for generating random word pairs.
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-This project is a starting point for a Flutter application.
+Contact
+If you have any questions, feel free to reach out to LeuxSenpai.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This should be good to go for your GitHub project! If you need anything else, just let me know. 😊
